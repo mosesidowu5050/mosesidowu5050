@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Moses Idowu Babatunde</h1>
-<h3 align="center">A passionate Full Stack Developer & Software Engineer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Moses</h1>
+<h3 align="center">Full Stack Developer & Software Engineer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mosesidowu5050&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
 ---
 
@@ -10,10 +13,11 @@
 - 💬 Ask me about **Java, Spring Boot, MongoDB, OOP, Clean Architecture**
 - 📫 How to reach me: **dynamopraize5050@gmail.com**
 - ⚡ Fun fact: *Every bug I fix teaches me something new — and that's why I love them💡*
+---
 
 ---
 
-## 🛠️ Languages & Tools:
+## 🛠️ Tech Stack:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -29,10 +33,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-
-
 ---
 
 ## 🚀 Featured Projects
@@ -42,6 +42,15 @@
 - [💼 Diary etc]
 
 ---
+
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mosesidowu5050&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosesidowu5050&theme=radical" />
+</p>
+
 
 ## 🌐 Connect with Me
 
