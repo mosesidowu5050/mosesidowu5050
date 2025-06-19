@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer & Software Engineer from Nigeria</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/mosesidowu5050&label=Profile%20views&color=0e75b6&style=flat" alt="moses-idowu" />
+  <img src="https://github.com/mosesidowu5050&label=Profile%20views&color=0e75b6&style=flat" alt="moses-idowu" />
 </p>
 
 ---
@@ -35,8 +35,8 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github.com/mosesidowu5050/mosesidowu5050/&show_icons=true&theme=radical" alt="Moses GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/mosesidowu5050&theme=radical" alt="Moses Streak Stats"/>
+  <img src="https://github.com/mosesidowu5050&show_icons=true&theme=radical" alt="Moses GitHub Stats" />
+  <img src="https://github.com/mosesidowu5050&theme=radical" alt="Moses Streak Stats"/>
 </p>
 
 ---
