@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer & Software Engineer from Nigeria</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mosesidowu5050&label=Profile%20views&color=0e75b6&style=flat" alt="moses-idowu" />
+  <img src="https://komarev.com/ghpvc/mosesidowu5050&label=Profile%20views&color=0e75b6&style=flat" alt="moses-idowu" />
 </p>
 
 ---
