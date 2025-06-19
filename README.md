@@ -35,8 +35,8 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=moses-idowu&show_icons=true&theme=radical" alt="Moses GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moses-idowu&theme=radical" alt="Moses Streak Stats"/>
+  <img src="https://github.com/mosesidowu5050/mosesidowu5050/&show_icons=true&theme=radical" alt="Moses GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosesidowu5050&theme=radical" alt="Moses Streak Stats"/>
 </p>
 
 ---
